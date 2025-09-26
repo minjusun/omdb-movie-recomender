@@ -1,6 +1,0 @@
-CREATE TABLE movies(
-id INT PRIMARY KEY AUTO_INCREMENT,
-title VARCHAR(50),
-year INT,
-summary TEXT
-);
